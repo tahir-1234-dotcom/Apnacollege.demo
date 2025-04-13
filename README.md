@@ -1,2 +1,3 @@
 # Apnacollege.demo
 This is my first git repository 
+Tahir Reyaz 
